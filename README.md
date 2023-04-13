@@ -1,4 +1,4 @@
-##RestAPIexample
+# RestAPIexample
 This is a simple RESTful API built with Node.js and Express. It provides a basic example of how to create endpoints, handle HTTP requests, and interact with a database using MongoDB.
 
 ##Installation
